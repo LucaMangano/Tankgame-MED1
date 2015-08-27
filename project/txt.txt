@@ -1,0 +1,35 @@
+COMMANDS:
+
+UP, DOWN, RIGHT, LEFT - player
+A, J - shield
+S, L - generator
+D, K - shooter
+C, N - shoot
+R, U - get ray
+
+
+1 - UP, DOWN, RIGHT, LEFT, R 
+2 - A, L, C
+3 - S, K, N
+4 - D, J, U
+
+
+
+ENERGY:
+
+100
+
+HIT BY ENEMY  - 10
+COLLECT RAY  + 10
+SHOOT  - 5
+
+
+
+
+POINTS:
+
+KILL ENEMY + 10
+GET COLLECTIBLE + 100
+GET RAY + 10
+
+P = TIME_SECONDS + ENERGY + 10*COLLECTIBLES
